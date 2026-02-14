@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api", "Web.Api\Web.Api.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidad", "CapaEntidad\CapaEntidad.csproj", "{2800DDCC-867D-49E1-A419-7E3BDE0272E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCliente", "WebCliente\WebCliente.csproj", "{A2332260-1EA3-42FA-A511-3F35EF52B5F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2800DDCC-867D-49E1-A419-7E3BDE0272E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2800DDCC-867D-49E1-A419-7E3BDE0272E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2800DDCC-867D-49E1-A419-7E3BDE0272E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2332260-1EA3-42FA-A511-3F35EF52B5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2332260-1EA3-42FA-A511-3F35EF52B5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2332260-1EA3-42FA-A511-3F35EF52B5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2332260-1EA3-42FA-A511-3F35EF52B5F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

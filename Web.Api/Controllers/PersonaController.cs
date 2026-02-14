@@ -10,7 +10,7 @@ namespace Web.Api.Controllers
     [ApiController]
     public class PersonaController : ControllerBase
     {
-        [HttpGet("{nombrecompleto}")]
+        [HttpGet("listarPersona/{nombrecompleto}")]
         public List<PersonaCLS> listarPersona(string nombrecompleto)
         {
             List<PersonaCLS> lista = new List<PersonaCLS>();

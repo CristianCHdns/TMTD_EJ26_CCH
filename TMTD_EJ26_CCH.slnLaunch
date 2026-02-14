@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "WebCliente\\WebCliente.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
